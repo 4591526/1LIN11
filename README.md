@@ -1,2 +1,2 @@
-# 1LIN11
+# Lingüística Computacional 
 
